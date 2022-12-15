@@ -1,0 +1,15 @@
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\obj\Debug\net7.0\apartat-2.csproj.AssemblyReference.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\obj\Debug\net7.0\apartat-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\obj\Debug\net7.0\apartat-2.AssemblyInfoInputs.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\obj\Debug\net7.0\apartat-2.AssemblyInfo.cs
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\obj\Debug\net7.0\apartat-2.csproj.CoreCompileInputs.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\bin\Debug\net7.0\apartat-2.exe
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\bin\Debug\net7.0\apartat-2.deps.json
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\bin\Debug\net7.0\apartat-2.runtimeconfig.json
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\bin\Debug\net7.0\apartat-2.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\bin\Debug\net7.0\apartat-2.pdb
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\obj\Debug\net7.0\apartat-2.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\obj\Debug\net7.0\refint\apartat-2.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\obj\Debug\net7.0\apartat-2.pdb
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\obj\Debug\net7.0\apartat-2.genruntimeconfig.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\Activitat_5_5_Repàs_Sense_Arrays\apartat-2\obj\Debug\net7.0\ref\apartat-2.dll
